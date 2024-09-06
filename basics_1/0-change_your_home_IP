@@ -1,4 +1,4 @@
-!/usr/bin/env bash
+#!/usr/bin/env bash
 # Script to change localhost and facebook.com IP resolutions
 
 sudo cp /etc/hosts /etc/hosts.backup
